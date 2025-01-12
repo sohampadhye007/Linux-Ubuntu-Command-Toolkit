@@ -16,6 +16,8 @@ This repository is designed for anyone starting their journey with Ubuntu. It co
 
 Whether you're transitioning from another operating system or diving into robotics and automation, this guide will help you unlock the full potential of Ubuntu.  
 
+### I will continue adding commands as I learn more, since I am also learning just like you!
+
 
 ## 1. `ls`
 **Description:** Lists files and directories in the current directory.
