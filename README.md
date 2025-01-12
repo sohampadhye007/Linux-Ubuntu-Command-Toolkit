@@ -1,4 +1,4 @@
-# Top 50 Ubuntu Commands with Examples
+# Ubuntu Commands with Examples
 
 
 Welcome to the **Ubuntu Commands Guide** repository!  
